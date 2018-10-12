@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsStageApp</string>
+
+    <string name="Preferences">Settings</string>
+    <string name="Activity">Preferences Settings</string>
+
+    <string name="SportsNews">Sports News</string>
+    <string name="TechnicalNews">Technical News</string>
+    <string name="WeatherNews">Weather News</string>
+    <string name="MovieNews">Movie News</string>
+    <string name="PreferenceOption">Preference Option</string>
+
+</resources>
